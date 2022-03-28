@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junyi-yao
-- 🌱 I’m currently learning Data Visualization
+- 🌱 I’m currently a Data Science student@Columbia University
 - 💞️ I’m looking to collaborate on R and Python projects
 
 
